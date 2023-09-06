@@ -1,4 +1,4 @@
 # my-first-repo
 
-![dummy](img/dummy.png)
+!  [dummy](img/dummy.png)
 
